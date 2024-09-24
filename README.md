@@ -1,2 +1,12 @@
-# QR-Code-Generator-
-This will be a simple project that generates QR codes from user input (e.g., a URL or text) and saves them as an image file.
+# QR Code Generator
+
+This is a simple Python-based QR code generator that can generate QR codes from user input and save them as an image file.
+
+## Features:
+- Generate QR codes from text, URLs, or any data you provide.
+- Save the QR code as a PNG file.
+
+## Requirements:
+- Python 3.x
+- `qrcode` library
+- `Pillow` library
